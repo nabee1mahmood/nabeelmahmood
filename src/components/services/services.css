@@ -1,0 +1,74 @@
+.services{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 80px;
+    margin: 0px 0px;
+    padding: 20px;
+}
+.services-title{
+    position: relative;
+    
+
+}
+.services-title h1{
+    padding: 0px 300px;
+    font-size: 80px;
+    font-weight: 600;
+    margin-bottom: 80px;
+
+}
+.services-format{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 20px;
+    padding: 60px;
+    border-radius: 10px;
+    border: 2px solid white;
+    transition: 0.4s;
+    cursor: pointer;
+
+}
+.services-containers{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+    margin-bottom: 80px;
+}
+.services-format h3{
+    font-size: 28px;
+    font-weight: 600;
+}
+.services-format h2{
+    font-size: 38px;
+    font-weight: 800;
+    background: linear-gradient(270deg, #66BB6A 0%, #FFFFFF 50%, #66BB6A 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+.servcies-format p{
+    color:#66BB6A;
+    font-size: 24px;
+    line-height: 50px;
+    max-width: 300px;
+}
+.services-readmore{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    margin-top: 20px;
+}
+.services-format:hover{
+    border: 3px solid white;
+    transform: scale(1.05);
+    transition: 0.4s;
+
+}
+.services-description {
+    color: white;
+    margin: 10px 20px;
+}
