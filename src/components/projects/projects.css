@@ -1,0 +1,77 @@
+.projects{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 80px;
+    margin: 0px 0px;
+    padding: 20px;
+}
+.projects-title{
+    position: relative;
+    
+
+}
+.projects-title h1{
+    padding: 0px 660px;
+    font-size: 80px;
+    font-weight: 600;
+    margin-bottom: 80px;
+
+}
+
+.projects-containers {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; /* Align items to the left */
+    gap: 100px;
+    width: 100%;
+    
+    
+}
+
+.projects-format {
+ 
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    width: 100%;
+    max-width: 600px; /* Ensures a maximum width */
+    padding: 20px;
+ 
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);
+    margin-left: 100; /* Center align the project format within the parent */
+    margin-right: auto; /* Center align the project format within the parent */
+    
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.project-video {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 100%;
+    max-width: 800px; /* Ensures a maximum width */
+    padding: 10px;
+   
+    border-radius: 8px;
+   
+    margin-top: -575px;
+    margin-bottom: 200px;
+    margin-left: auto; /* Center align the project format within the parent */
+    margin-right: 120; /* Center align the project format within the parent */
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.project-video video {
+    max-width: 100%;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-left: 500; /* Aligns the video to the right */
+}
+
+
+
+

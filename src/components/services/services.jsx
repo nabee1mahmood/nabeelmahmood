@@ -90,7 +90,7 @@ const Services = () => {
                             <li>Problem-Solving Skills</li>
                             <li>Criticial Thinking</li>
                             <li>Efficient</li>
-                            <li>Commuinication</li>
+                            <li>Communication</li>
                             <li>Teammwork</li>
                     </div>
 
