@@ -18,7 +18,7 @@ const Hero = () => {
       <AnchorLink href="#contact" className="anchor-link">
   <div className="hero-connect">Connect with me</div>
 </AnchorLink>
-<div className='hero-resume' onClick={() => window.open('https://drive.google.com/file/d/1a4GKm6NdPy0QPVsWf01N66QFTkIUbTXG/view?usp=sharing', '_blank')}>
+<div className='hero-resume' onClick={() => window.open('https://drive.google.com/file/d/1zEbZQ4yKe-UsS2-qMbBPEmJx0r8vbMYu/view?usp=sharing', '_blank')}>
     My Resume
 </div>
       </div>
