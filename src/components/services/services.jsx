@@ -38,7 +38,7 @@ const Services = () => {
                         <br />
                         <h3>Relevant Coursework:</h3>
                         <ul>
-                            <li>Data Structures - In this course, I was introducted into the fundamental aspects of Data Structures. The main lessons covered were essential structures 
+                            <li>Data Structures - In this course, I was introduced into the fundamental aspects of Data Structures. The main lessons covered were essential structures 
                                 such as Arrays, Linked Lists, Stacks & Queues, Hash Tables, and Binary Search Trees. Each structure was thoroughly explored through assignments, ensuring not just the ability to 
                                 implement them, but also a deep understanding of their functionalities. Throughout the course, the significance of these structures became evident as I learned about their 
                                 diverse applications and the trade-offs between their runtimes. This knowledge equipped me to make 
