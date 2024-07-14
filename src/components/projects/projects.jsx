@@ -42,7 +42,7 @@ const Projects = () => {
                
                 
                     <div className="project-video">
-                        <video  width="700" controls autoPlay loop>
+                        <video  width="650" controls autoPlay loop>
                             <source src={videoPath} type="video/mp4" />
                             Your browser does not support the video tag.
                         </video>

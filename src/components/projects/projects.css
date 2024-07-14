@@ -41,7 +41,7 @@
  
     border-radius: 5px;
     box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);
-    margin-left: 100; /* Center align the project format within the parent */
+    margin-left: 100px; /* Center align the project format within the parent */
     margin-right: auto; /* Center align the project format within the parent */
     
     transition: transform 0.3s, box-shadow 0.3s;
@@ -69,7 +69,7 @@
     border: 1px solid #ddd;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    margin-left: 500; /* Aligns the video to the right */
+    margin-left: 600; /* Aligns the video to the right */
 }
 
 
