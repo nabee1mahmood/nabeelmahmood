@@ -42,7 +42,7 @@ const About = () => {
             </div>
             <div className="about-achievements">
       <div className="about-achievement">
-        <h1>3.43 GPA</h1>
+        <h1>3.47 GPA</h1>
         <p>OVERALL GPA</p>
       </div>
       <hr />
