@@ -1,32 +1,43 @@
-.navbar{
+.navbar {
     display: flex;
     align-items: center;
     justify-content: space-between;
     margin: auto;
 }
-.nav-menu{
+.nav-menu {
     display: flex;
     align-items: center;
     list-style: none;
     gap: 60px;
     font-size: 30px;
 }
-.nav-connect{
+.nav-connect {
     padding: 20px 40px;
     border-radius: 50px;
     background: linear-gradient(270deg, #66BB6A 0%, rgba(255, 255, 255, 0.5) 50%, #66BB6A 100%);
-
-
-
     font-size: 22px;
     cursor: pointer;
-    transition: 0.5;
+    transition: 0.5s;
 }
-.nav-connect:hover{
+.nav-connect:hover {
     transform: scale(1.05);
 }
-.anchor-link{
+.anchor-link {
     text-decoration: none;
     color: white;
-
+    position: relative; /* Required for positioning the pseudo-element */
+    padding-bottom: 5px; /* Space for the bar */
+}
+.anchor-link::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 0%;
+    height: 2px;
+    background: #66BB6A;
+    transition: width 0.3s ease-in-out; /* Animation for the bar */
+}
+.anchor-link:hover::after {
+    width: 100%; /* Full width on hover */
 }

@@ -23,8 +23,7 @@ const About = () => {
                 <div className="about-right">
                     <div className="about-para">
                         <p>
-                            I am a college student at the University of Arkansas Fort Smith studying Computer Science, and I am a Pakistani American. My academic journey revolves around the
-                            introduction to data structures, databases, and the captivating world of algorithms.
+                        I am currently studying Computer Science at the University of Arkansas - Fort Smith, with a concentration in Data Science and Artificial Intelligence. As a Pakistani American, I am deeply passionate about machine learning and constantly seek to expand my knowledge in cutting-edge technologies. My academic journey has provided me with a strong foundation in data structures, databases, and algorithms, fueling my enthusiasm for exploring advancements in AI and data science.
                         </p>
                         <p>
                             I find myself engrossed in the dynamic realm of artificial intelligence, where algorithms can come to life. Whether it's optimizing code or exploring the potential of new ideas,
@@ -42,7 +41,7 @@ const About = () => {
             </div>
             <div className="about-achievements">
       <div className="about-achievement">
-        <h1>3.43 GPA</h1>
+        <h1>3.47 GPA</h1>
         <p>OVERALL GPA</p>
       </div>
       <hr />
