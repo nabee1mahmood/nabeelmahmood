@@ -1,6 +1,6 @@
 # Nabeel's React Portfolio
 
-This is my personal portfolio built with **React** to showcase my projects, skills, and experience. 
+This is my personal portfolio built with **React, HTML/CSS & JavaScript** to showcase my projects, skills, and experience. 
 
 ## Features
 - Clean and modern design
