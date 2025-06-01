@@ -1,9 +1,9 @@
 import React from 'react'
 import './contact.css'
-import mail_icon from "/Users/nabeelmahmood/nabeels-portfolio-react/src/assets/icons8-email-50 (2).png";
- import call_icon from "/Users/nabeelmahmood/nabeels-portfolio-react/src/assets/icons8-phone-number-50 (2).png";
- import linkedin_icon from "/Users/nabeelmahmood/nabeels-portfolio-react/src/assets/icons8-linkedin-50 (1).png";
- import github_icon from "/Users/nabeelmahmood/nabeels-portfolio-react/src/assets/icons8-github-50.png";
+import mail_icon from "/Users/nabeelmahmood/Nabeels-Portfolio-Website/src/assets/icons8-email-50 (2).png";
+ import call_icon from "/Users/nabeelmahmood/Nabeels-Portfolio-Website/src/assets/icons8-phone-number-50 (2).png";
+ import linkedin_icon from "/Users/nabeelmahmood/Nabeels-Portfolio-Website/src/assets/icons8-linkedin-50 (1).png";
+ import github_icon from "/Users/nabeelmahmood/Nabeels-Portfolio-Website/src/assets/icons8-github-50.png";
 
 
 const contact = () => {

@@ -1,6 +1,6 @@
 import React from 'react';
 import './about.css';
- import profile_img from '/Users/nabeelmahmood/nabeels-portfolio-react/src/assets/IMG_1778.png';  // Use relative paths
+ import profile_img from '/Users/nabeelmahmood/Nabeels-Portfolio-Website/src/assets/IMG_1778.png';  // Use relative paths
 
 
 

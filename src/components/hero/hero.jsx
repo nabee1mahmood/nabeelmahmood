@@ -1,8 +1,8 @@
 import React from 'react';
 import './hero.css'; 
-import profile_img from '/Users/nabeelmahmood/nabeels-portfolio-react/src/assets/IMG_1636.png';
-import linkedin_img from '/Users/nabeelmahmood/nabeels-portfolio-react/src/assets/icons8-linkedin-150.png'
-import github_img from '/Users/nabeelmahmood/nabeels-portfolio-react/src/assets/icons8-github-150.png';
+import profile_img from '/Users/nabeelmahmood/Nabeels-Portfolio-Website/src/assets/IMG_1636.png';
+import linkedin_img from '/Users/nabeelmahmood/Nabeels-Portfolio-Website/src/assets/icons8-linkedin-150.png'
+import github_img from '/Users/nabeelmahmood/Nabeels-Portfolio-Website/src/assets/icons8-github-150.png';
 import AnchorLink from 'react-anchor-link-smooth-scroll';
 
 const Hero = () => {

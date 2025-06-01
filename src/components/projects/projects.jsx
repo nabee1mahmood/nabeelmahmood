@@ -1,6 +1,6 @@
 import React from 'react';
 import './projects.css';
-import videoPath from '/Users/nabeelmahmood/nabeels-portfolio-react/src/assets/download.mp4';
+import videoPath from '/Users/nabeelmahmood/Nabeels-Portfolio-Website/src/assets/download.mp4';
 
 const Projects = () => {
     return (
