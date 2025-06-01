@@ -56,7 +56,7 @@ const contact = () => {
                     <div className="icon-container">
                          <img src={linkedin_icon} alt="" className="contact-icon" /> 
                     </div>
-                    <p className="contact-text linkedin">linkedin.com/in/nabeel-mahmood-56ab4b270</p>
+                    <p className="contact-text linkedin">linkedin.com/in/nabeelmah</p>
                 </div>
                 <div className="contact-detail">
                     <div className="icon-container">

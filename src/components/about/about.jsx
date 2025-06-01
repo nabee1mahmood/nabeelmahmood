@@ -23,25 +23,33 @@ const About = () => {
                 <div className="about-right">
                     <div className="about-para">
                         <p>
-                        I am currently studying Computer Science at the University of Arkansas - Fort Smith, with a concentration in Data Science and Artificial Intelligence. As a Pakistani American, I am deeply passionate about machine learning and constantly seek to expand my knowledge in cutting-edge technologies. My academic journey has provided me with a strong foundation in data structures, databases, and algorithms, fueling my enthusiasm for exploring advancements in AI and data science.
+                        I am currently studying Computer Science at the University of Arkansas - Fort Smith.
+                        As a Pakistani American, I’m deeply passionate about exploring machine learning and to learn more about on the cutting edge of new technologies. Throughout my courses, 
+                        I’ve built a strong foundation in data structures, databases, and algorithms, which has only deepened my passion for Artificial Intelligence and Data Science. 
+                        I’m always eager to learn more and grow in this ever-evolving tech field.
                         </p>
                         <p>
-                            I find myself engrossed in the dynamic realm of artificial intelligence, where algorithms can come to life. Whether it's optimizing code or exploring the potential of new ideas,
-                            I'm always eager to unravel the next challenges in this ever-evolving tech field.
+                           
+
+                        
+
+                      I’m always excited about learning more about artificial intelligence, data science, and becoming a data scientist. What I love about this field is the opportunity to learn new technologies and how algorithms can be applied to real-world applications. 
+                      Whether I’m optimizing code or experimenting with new ideas,
+                      I’m always excited to take on new challenges and discover the endless possibilities this field has to offer.
                         </p>
                     </div>
                     <div className="about-skills">
-                        <div className="about-skill"><p>Python</p><hr style={{ width: '50%' }} /></div>
+                        <div className="about-skill"><p>Python</p><hr style={{ width: '60%' }} /></div>
                         <div className="about-skill"><p>Java</p><hr style={{ width: '85%' }} /></div>
                         <div className="about-skill"><p>SQL</p><hr style={{ width: '65%' }} /></div>
-                        <div className="about-skill"><p>C++</p><hr style={{ width: '40%' }} /></div>
+                        <div className="about-skill"><p>JavaScript</p><hr style={{ width: '61%' }} /></div>
                         <div className="about-skill"><p>R</p><hr style={{ width: '55%' }} /></div>
                     </div>
                 </div>
             </div>
             <div className="about-achievements">
       <div className="about-achievement">
-        <h1>3.47 GPA</h1>
+        <h1>3.42 GPA</h1>
         <p>OVERALL GPA</p>
       </div>
       <hr />

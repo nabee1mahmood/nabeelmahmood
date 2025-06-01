@@ -44,9 +44,8 @@ const Services = () => {
                         <h2>Education</h2>
                         <h3 className="large-heading">University of Arkansas - Fort Smith</h3>
                         <h4>Bachelor of Science in Computer Science</h4>
-                        <h4>Concentration: Data Science and Artificial Intelligence</h4>
                         <h4>Minor: Mathematics</h4>
-                        <h4>August 2021 - December 2025 (Expected)</h4>
+                        <h4>August 2021 - May 2026 (Expected)</h4>
                         <br />
                         <h3>Relevant Coursework:</h3>
                         <ul>

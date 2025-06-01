@@ -21,15 +21,15 @@ const Projects = () => {
     </li>
     <br />
     <li><strong>Model Building:</strong> 
-        <p>Implemented Logistic Regression for binary classification and Decision Tree classifiers for decision-making, providing clear model interpretations.</p>
+        <p>Used Logistic Regression to classify transactions as either fraudulent or non-fraudulent, providing a simple yet effective solution for this binary classification problem.</p>
     </li>
     <br />
     <li><strong>Model Evaluation:</strong> 
-        <p>Achieved high metrics: Precision (97.99%), Recall (97.97%), Accuracy (97.97%), and F1-Score (97.97%).</p>
+        <p>Achieved high metrics: Precision (98.02%), Recall (98.00%), Accuracy (98.00), and F1-Score (98.00%).</p>
     </li>
     <br />
     <li><strong>Conclusion:</strong> 
-        <p>Both models effectively detected fraudulent transactions. Logistic Regression was simple and strong, while Decision Tree provided interpretability and insights.</p>
+        <p>Logistic Regression proved to be a robust and efficient model for detecting fraudulent transactions, offering both simplicity and accuracy in results.</p>
     </li>
     <br />
 </ul>
@@ -37,7 +37,6 @@ const Projects = () => {
 
 
                     </div>
-            
                 </div>
                
                 
