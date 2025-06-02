@@ -8,5 +8,5 @@ This is my personal portfolio built with **React, HTML/CSS & JavaScript** to sho
 - Deployed using **GitHub Pages**
 
 ## Live Demo
-[Please click here to visit the portfolio](https://nabee1mahmood.github.io/nabeels-react-portfolio/)
+[Please click here to visit the portfolio](https://nabee1mahmood.github.io/nabeelmahmood/)
 
