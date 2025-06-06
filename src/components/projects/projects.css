@@ -57,12 +57,34 @@
    
     border-radius: 8px;
    
-    margin-top: -575px;
+    margin-top: -535px;
     margin-bottom: 200px;
     margin-left: auto; /* Center align the project format within the parent */
     margin-right: 120; /* Center align the project format within the parent */
-    transition: transform 0.3s, box-shadow 0.3s;
+    transition: transform 0.3s, box-shadow 
+    0.3s;
 }
+
+
+.project-video-nlp {
+        display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 100%;
+    max-width: 800px; /* Ensures a maximum width */
+    padding: 10px;
+   
+    border-radius: 8px;
+   
+    margin-top: -610px;
+    margin-bottom: 200px;
+    margin-left: auto; /* Center align the project format within the parent */
+    margin-right: 120; /* Center align the project format within the parent */
+    transition: transform 0.3s, box-shadow 
+    0.3s;
+}
+
+
 
 .project-video video {
     max-width: 100%;
@@ -71,6 +93,7 @@
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     margin-left: 600; /* Aligns the video to the right */
 }
+
 
 
 
