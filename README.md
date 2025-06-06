@@ -1,4 +1,4 @@
-# Nabeel's Portfolio Wegitbsite
+# Nabeel's Portfolio Website
 
 This is my personal portfolio built with **React, HTML/CSS & JavaScript** to showcase my projects, skills, and experience. 
 
